@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Guest.master.cs" Inherits="ruralCompany.Guest" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        .header .logo {
+    float: left;
+}
+
+.header span {
+    float: right;
+}
+
+.header{
+    height: 74px;
+}
+
+.buttons {;
+    background-color: rgba(51, 51, 51, 0.05);
+    border-radius: 8px;
+    border-width: 0;
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 12px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <img class="logo" src="Images/logo.png" height="74" width="137" />
+            <span>
+                <asp:HyperLink class="buttons" ID="HyperLink_Customer" runat="server" NavigateUrl="~/Register.aspx">Register</asp:HyperLink>
+                <asp:HyperLink class="buttons" ID="HyperLink_ServPro" runat="server" NavigateUrl="~/CustLogin.aspx">Login</asp:HyperLink>
+            </span>
+        </div>
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="footer">
+            <p>&copy Rural Company <script>document.write(new Date().getFullYear())</script>. All rights reserved.</p>
+                
+        </div>
+    </form>
+</body>
+</html>

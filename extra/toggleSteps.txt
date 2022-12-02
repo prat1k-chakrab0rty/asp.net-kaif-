@@ -1,0 +1,27 @@
+.cs in Page_Load
+	Button_Steps.OnClientClick = "toggleSteps()";
+
+.aspx before closing tag
+	<script>
+        
+        function toggleSteps() {
+            var steps = document.getElementById('steps');
+            var displaySetting = steps.style.display;
+            var button_steps = document.getElementById('Button_Steps');
+            if (displaySetting == 'block') {
+                steps.style.display = 'none';
+                button_steps.innerHTML = 'Show steps to book';
+            }
+            else if (displaySetting == 'none') {
+                steps.style.display = 'block';
+                button_steps.innerHTML = 'Hide steps to book';
+            }
+        }
+
+    </script>
+
+.css
+	#steps{
+    display: block;
+}
+	

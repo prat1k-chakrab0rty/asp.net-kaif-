@@ -1,0 +1,33 @@
+.gridServices {
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    margin: 20px;
+}
+
+.gridServices .carpenter, .cleaning, .electrician, .paint, 
+.pest-control, .plumber, .repair{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 20px;
+}
+
+    .gridServices .row1, .row2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin: 20px;
+    }
+
+.gridServices span{
+    align-items: center;
+}
+
+.gridServices img{
+    height: 50px;
+    width: 50px;
+}

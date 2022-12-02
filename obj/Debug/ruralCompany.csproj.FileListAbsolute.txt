@@ -1,0 +1,236 @@
+D:\.NET\ruralCompany\bin\ruralCompany.dll.config
+D:\.NET\ruralCompany\bin\ruralCompany.dll
+D:\.NET\ruralCompany\bin\ruralCompany.pdb
+D:\.NET\ruralCompany\bin\roslyn\csc.exe
+D:\.NET\ruralCompany\bin\roslyn\csc.exe.config
+D:\.NET\ruralCompany\bin\roslyn\csc.rsp
+D:\.NET\ruralCompany\bin\roslyn\csi.exe
+D:\.NET\ruralCompany\bin\roslyn\csi.exe.config
+D:\.NET\ruralCompany\bin\roslyn\csi.rsp
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET\ruralCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\.NET\ruralCompany\bin\roslyn\System.AppContext.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Console.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Globalization.Calendars.dll
+D:\.NET\ruralCompany\bin\roslyn\System.IO.Compression.dll
+D:\.NET\ruralCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\.NET\ruralCompany\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET\ruralCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Net.Http.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Net.Sockets.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\.NET\ruralCompany\bin\roslyn\System.ValueTuple.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Xml.XPath.dll
+D:\.NET\ruralCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.NET\ruralCompany\bin\roslyn\vbc.exe
+D:\.NET\ruralCompany\bin\roslyn\vbc.exe.config
+D:\.NET\ruralCompany\bin\roslyn\vbc.rsp
+D:\.NET\ruralCompany\bin\roslyn\VBCSCompiler.exe
+D:\.NET\ruralCompany\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET\ruralCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET\ruralCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET\ruralCompany\obj\Debug\ruralCompany.csproj.AssemblyReference.cache
+D:\.NET\ruralCompany\obj\Debug\ruralCompany.csproj.CoreCompileInputs.cache
+D:\.NET\ruralCompany\obj\Debug\ruralCompany.csproj.CopyComplete
+D:\.NET\ruralCompany\obj\Debug\ruralCompany.dll
+D:\.NET\ruralCompany\obj\Debug\ruralCompany.pdb
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\ruralCompany.dll.config
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\ruralCompany.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\ruralCompany.pdb
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\csc.exe
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\csc.exe.config
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\csc.rsp
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\csi.exe
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\csi.exe.config
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\csi.rsp
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.AppContext.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Console.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.IO.Compression.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Net.Http.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Net.Sockets.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.ValueTuple.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Xml.XPath.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\vbc.exe
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\vbc.exe.config
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\vbc.rsp
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\VBCSCompiler.exe
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\obj\Debug\ruralCompany.csproj.AssemblyReference.cache
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\obj\Debug\ruralCompany.csproj.CoreCompileInputs.cache
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\obj\Debug\ruralCompany.csproj.CopyComplete
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\obj\Debug\ruralCompany.dll
+C:\Users\K\Downloads\ruralCompany (1)\ruralCompany\obj\Debug\ruralCompany.pdb
+C:\Users\K\Downloads\ruralCompany\bin\ruralCompany.dll.config
+C:\Users\K\Downloads\ruralCompany\bin\ruralCompany.dll
+C:\Users\K\Downloads\ruralCompany\bin\ruralCompany.pdb
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\csc.exe
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\csc.exe.config
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\csc.rsp
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\csi.exe
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\csi.exe.config
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\csi.rsp
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.AppContext.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Console.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.IO.Compression.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Net.Http.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Net.Sockets.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.ValueTuple.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Xml.XPath.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\vbc.exe
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\vbc.exe.config
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\vbc.rsp
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\VBCSCompiler.exe
+C:\Users\K\Downloads\ruralCompany\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\K\Downloads\ruralCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\K\Downloads\ruralCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\K\Downloads\ruralCompany\obj\Debug\ruralCompany.csproj.AssemblyReference.cache
+C:\Users\K\Downloads\ruralCompany\obj\Debug\ruralCompany.csproj.CoreCompileInputs.cache
+C:\Users\K\Downloads\ruralCompany\obj\Debug\ruralCompany.csproj.CopyComplete
+C:\Users\K\Downloads\ruralCompany\obj\Debug\ruralCompany.dll
+C:\Users\K\Downloads\ruralCompany\obj\Debug\ruralCompany.pdb
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\ruralCompany.dll.config
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\ruralCompany.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\ruralCompany.pdb
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\csc.exe
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\csc.exe.config
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\csc.rsp
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\csi.exe
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\csi.exe.config
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\csi.rsp
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.AppContext.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Console.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.IO.Compression.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Net.Http.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.ValueTuple.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\vbc.exe
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\vbc.exe.config
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\vbc.rsp
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\VBCSCompiler.exe
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\obj\Debug\ruralCompany.csproj.AssemblyReference.cache
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\obj\Debug\ruralCompany.csproj.CoreCompileInputs.cache
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\obj\Debug\ruralCompany.csproj.CopyComplete
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\obj\Debug\ruralCompany.dll
+C:\Users\pratik.c\Downloads\ruralCompany\ruralCompany\obj\Debug\ruralCompany.pdb

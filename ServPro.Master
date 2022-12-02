@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ServPro.master.cs" Inherits="ruralCompany.ServPro" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style>
+
+        .header .logo {
+    float: left;
+}
+
+        .header{
+    height: 74px;
+}
+
+        ul{
+            background-color: #565555;
+        }
+
+        li{
+            display: inline-block;
+            height: 74px;
+        }
+        a{
+            display: block;
+            padding: 30px;
+            color: white;
+            text-decoration: none;
+        }
+      
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <img class="logo" src="Images/logo.png" height="74" width="137" />
+           <ul class="main-nav">
+          <li><a href="Home_ServPro.aspx" >Manage Bookings</a></li>
+          <li><a href="#">Profile</a></li>
+               <li><a href="ManageServices_ServPro.aspx">My Services</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/CustLogin.aspx">Logout</asp:HyperLink></li>
+      </ul></div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        <div class="footer">
+            <p>&copy Rural Company <script>document.write(new Date().getFullYear())</script>. All rights reserved.</p>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="User.master.cs" Inherits="ruralCompany.User" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+
+        .header .logo {
+    float: left;
+}
+
+        .header{
+    height: 74px;
+}
+
+        ul{
+            background-color: #565555;
+        }
+
+        li{
+            display: inline-block;
+            height: 74px;
+        }
+        a{
+            display: block;
+            padding: 30px;
+            color: white;
+            text-decoration: none;
+        }
+      
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <img class="logo" src="Images/logo.png" height="74" width="137" />
+           <ul class="main-nav">
+          <li><a href="Home.aspx" >Home</a></li>
+          <li><a href="Profile.aspx">Profile</a></li>
+               <li><a href="MyBookings.aspx">My Bookings</a></li>
+          <li><a href="#">Contact</a></li>
+               <li>
+                   <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/CustLogin.aspx">Logout</asp:HyperLink></li>
+      </ul></div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        <div class="footer">
+            <p>&copy Rural Company <script>document.write(new Date().getFullYear())</script>. All rights reserved.</p>
+        </div>
+    </form>
+</body>
+</html>
